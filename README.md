@@ -29,7 +29,7 @@ https://drive.google.com/file/d/12vinYnauKsL-wp9b8hjSPQrPvABCYs0C/view?usp=shari
 
 
 ## Configuration Instructions
-The [Project](https://github.com/sowmi06/Edible-Mushroom-Classification.git) requires the following tools and libraries to run the [source code](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/Drowsiness_Detection.py)
+The [Project](https://github.com/sowmi06/Edible-Mushroom-Classification.git) requires the following tools and libraries to run the [source code](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/Edible-Mushroom-Classification.py).
 ### System Requirements 
 - [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/install/)
     - Python version 3.6.0 – 3.9.0
