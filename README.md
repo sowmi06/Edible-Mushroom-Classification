@@ -1,8 +1,6 @@
 # Edible-Mushroom-Classification
 ## Table of contents
 
-https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/README.md
-
 1.  [Project Description](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/README.md#project-description)
 1.  [Configuration Instructions](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/README.md#configuration-instructions)
     1.  [System Requirements](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/README.md#system-requirements)
