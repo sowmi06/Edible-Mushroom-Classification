@@ -4,7 +4,7 @@
 1.  [Project Description](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/README.md#project-description)
 1.  [Configuration Instructions](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/README.md#configuration-instructions)
     1.  [System Requirements](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/README.md#system-requirements)
-    1.  [Tools and Library Requirements](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/README.md#tools-and-library-     requirements)
+    1.  [Tools and Library Requirements](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/README.md#tools-and-library-requirements)
 1.  [Installation Instructions](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/README.md#installation-instructions)
 1.  [Operating Instructions](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/README.md#operating-instructions)
 1.  [Manifesting Directory structure](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/README.md#manifesting-directory-structure)
