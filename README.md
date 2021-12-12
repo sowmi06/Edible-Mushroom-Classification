@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/repo-size/sowmi06/Edible-Mushroom-Classification)
 ![](https://img.shields.io/github/issues/sowmi06/Edible-Mushroom-Classification)
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F0*BAFtzQvvUQpnzBwy.gif&imgrefurl=https%3A%2F%2Fmedium.com%2Fai-techsystems%2Fmushroom-classification-using-deep-learning-e0154afa4c03&tbnid=-nQwpM9QzQzJjM&vet=12ahUKEwjtyo7agN30AhUBOa0KHejRCAAQMygAegUIARCwAQ..i&docid=1kEv5ReOXuyxxM&w=800&h=600&q=mushroom%20classification%20machine%20learning%20gif&ved=2ahUKEwjtyo7agN30AhUBOa0KHejRCAAQMygAegUIARCwAQ)
+![](https://miro.medium.com/max/1400/0*BAFtzQvvUQpnzBwy.gif)
 
 ## Table of contents
 
