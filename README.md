@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/repo-size/sowmi06/Edible-Mushroom-Classification)
 ![](https://img.shields.io/github/issues/sowmi06/Edible-Mushroom-Classification)
 
-![](https://miro.medium.com/max/1400/0*BAFtzQvvUQpnzBwy.gif)
+<!-- ![](https://miro.medium.com/max/1400/0*BAFtzQvvUQpnzBwy.gif) -->
 
 ## Table of contents
 
