@@ -1,4 +1,11 @@
 # Edible-Mushroom-Classification
+
+![](https://img.shields.io/badge/license-GNU--3.0-green)
+![](https://img.shields.io/github/repo-size/sowmi06/Edible-Mushroom-Classification)
+![](https://img.shields.io/github/issues/sowmi06/Edible-Mushroom-Classification)
+
+
+
 ## Table of contents
 
 1.  [Project Description](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/README.md#project-description)
