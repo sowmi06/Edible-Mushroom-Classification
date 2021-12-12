@@ -142,7 +142,7 @@ Feel free to drop an [email](mailto:sowmidevaraj06@gmail.com) for any help.
 The code is a finalized and free from bugs.
 
 ## Acknowledgement
-I would like to thank Dr. Thiago E. A. de Oliveira for providing me an opportunity to explore my area of interest and assisting me throughout research paper. 
+I would like to thank Dr. Thiago E. A. de Oliveira for guiding throughout research paper. 
 
 ## References 
 - Anaconda Navigator : https://docs.anaconda.com/anaconda/navigator/install/
