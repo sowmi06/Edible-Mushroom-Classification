@@ -99,7 +99,7 @@ The following are the steps to replicate the exact results acquired from the pro
 
 - Satisify all the system and the tool, libraries requirements.
 - Clone the [Edible-Mushroom-Classification](https://github.com/sowmi06/Edible-Mushroom-Classification.git) repository into your local machine. 
-- Run the [Drowsiness_Detection.py](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/Drowsiness_Detection.py) in a python IDE to get the final output
+- Run the [LR_NB.py](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/LR_NB.py) for the Logestic Regression and Naive Bayes results and [Random_Forest.py](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/Random_Forest.py) for the Random forest result.
 - Follow the same directory structure from the cloned repository.
 
 
@@ -110,53 +110,25 @@ The following directory structure is required to replicate exact results acquire
 ### Directory layout to repicate results
 
     .
-    ├── Cascade_Classifier                 
-    │   ├── haarcascade_eye.xml
-    |   └── haarcascade_frontalface_default.xml
-    |
-    ├── Dataset                 
-    │   ├── Eyes
-    |   |    ├── Close_eye                    
-    |   |    |    └── ...  # raw images 
-    |   |    └── Open_eye
-    |   |         └── ...  # raw images  
-    │   └── Face
-    |        ├── no_yawn
-    |        |    └── ...  # raw images 
-    |        └── yawn
-    |             └── ...  # raw images 
-    |  
-    ├── Source_Code   
-    │   ├── Drowsiness_Detection.py 
-    │   └── face_eye_detector.py
-    |
-    ├── LICENSE                     
-    └── README.md
+    ├── .gitignore               
+    ├── LICENSE                
+    ├── LR_NB.py  
+    ├── Preprocessing.py
+    ├── README.md
+    └── Random_Forest.py
 
 
 
 
 ### Directories and Files
 
-[Cascade_Classifier](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Cascade_Classifier) - A folder containing Haar-Cascade Classifier ".xml" files from official [OpenCV repository](https://github.com/opencv).
+[LR_NB.py](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/LR_NB.py) - A ".py" file containing the proposed model implementation of the mushroom classification using Naive Bayes and Logestic Regression Classifier.
 
-[haarcascade_eye.xml](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Cascade_Classifier/haarcascade_eye.xml) - A ".xml" file to detect the eyes from image.
+[Random_Forest.py](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/Random_Forest.py) - A ".py" file containing the proposed model implementation of the mushroom classification using Random Forest Classifier.
 
-[haarcascade_frontalface_default.xml](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Cascade_Classifier/haarcascade_frontalface_default.xml)- A ".xml" file to detect the faces from image.
+[Preprocessing.py](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/Preprocessing.py) -  A ".py" file containing the preprocessing steps.
 
-[Dataset](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset) - A folder with two sub folders containing Eyes and Faces raw images.
-
-[Eyes](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset/Eyes) - A sub-folder containing raw images of [open](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset/Eyes/Open_eye) and [close eye](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset/Eyes/Close_eye).
-
-[Face](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset/Face) - A sub-folder containing raw images of [yawn](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset/Eyes/yawn) and [no yawn](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset/Eyes/no_yawn).
-
-[Source_Code](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Source_Code) - A folder containing source code to execude the output.
-
-[Drowsiness_Detection.py](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/Drowsiness_Detection.py) - A ".py" file containing the proposed model implementation of the drowsiness detection system.
-
-[face_eye_detector.py](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/face_eye_detector.py) - A ".py" file containing face detector and preprocessing steps.
-
-[Readme.md](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md) - Readme file to execute the project. 
+[Readme.md](https://github.com/sowmi06/Edible-Mushroom-Classification/blob/main/README.md) - Readme file to execute the project. 
 
 
 
