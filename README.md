@@ -1,6 +1,6 @@
 # Edible-Mushroom-Classification
 
-![](https://img.shields.io/badge/license-MIT--3.0-green)
+![](https://img.shields.io/badge/license-MIT-green)
 ![](https://img.shields.io/github/repo-size/sowmi06/Edible-Mushroom-Classification)
 ![](https://img.shields.io/github/issues/sowmi06/Edible-Mushroom-Classification)
 
