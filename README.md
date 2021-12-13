@@ -30,8 +30,6 @@ Mushroom is fleshy and edible fruit bodies of several species of fungi members o
 
 These mushroom toxicity recognition methods have some limitations, such as low accuracy, unqualified detection of unknown toxins, strict requirements for the experimental environments, sufficient professional knowledge, and complex experimental cycles. To solve these problems, we propose an automatic toxicity identification method based on visual features. Firstly, data is inspected for unbalanced set, followed by preprocessing the dataset by data wrangling(Encoding categorical features, Standardizing the features, Encoding the target variable) to convert the categorical data into numerical data Finally, various classifiers like Logistic Regression, Naive Bayes and Random Forest classifier are applied to check for the accuracies of each classifier and propose the best suitable classifier to recognize the toxicity of mushrooms, even that of some unknown species—according to their appearance features and important social and application value. The implementation result indicates that the Random Forest classifier outperforms.
 
-The below is the link of the Edible mushroom Classification research paper:
-https://drive.google.com/file/d/12vinYnauKsL-wp9b8hjSPQrPvABCYs0C/view?usp=sharing
 
 
 
