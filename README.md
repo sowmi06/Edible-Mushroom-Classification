@@ -50,46 +50,10 @@ The [Project](https://github.com/sowmi06/Edible-Mushroom-Classification.git) req
     
 - [Numpy](https://numpy.org/install/)
 
-  Numpy releases are available as wheel packages for macOS, Windows and Linux on [PyPI](https://pypi.org/project/numpy/). 
-  
-  Install numpy using pip:
-        
-        pip install numpy
-                
-  Install numpy using Conda packages:
-
-        conda install numpy
-  
-  To check your numpy installation:
-   
-        python -m pip show numpy # to see which version and where numpy is installed
-
-   
-
 - [Scikit-learn](https://scikit-learn.org/stable/install.html) 
   
-  Install scikit-learn using pip:
-        
-        pip install -U scikit-learn
-                
-  To check your scikit-learn installation:
-
-        python -m pip show scikit-learn  # to see which version and where scikit-learn is installed
-     
-
-
 - [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
 
-The easiest way to install pandas is to install it as part of the Anaconda distribution, a cross platform distribution for data analysis and scientific computing.
-          
-  Install it using Conda packages:
-
-       conda install pandas
-  
-  Installing from [PyPI](https://pypi.org/project/pandas/) :
-      
-        pip install pandas
-   
 
 ## Installation Instructions
 To work with the project code
@@ -121,7 +85,6 @@ The following directory structure is required to replicate exact results acquire
     ├── Preprocessing.py
     ├── README.md
     └── Random_Forest.py
-
 
 
 
